@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-03T04:16:54.354434+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-03T16:53:03.734421+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
           "url": "https://wallstreetcn.com/articles/3778501",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "伊朗否认与美谈判",
+          "url": "https://www.toutiao.com/trending/7669703499558424083/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "据伊朗学生通讯社：在乌克兰袭击中遇袭的伊朗商船船员及遇难船员遗体已返回伊朗。",
@@ -72,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "伊朗称已与阿曼讨论开辟新的霍尔木兹海峡航线",
+          "url": "https://flash.jin10.com/detail/20260803161855937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
@@ -151,6 +184,61 @@
           "time_info": "04时16分"
         },
         {
+          "title": "伊外交部：乌克兰袭击伊朗商船可能是蓄意行为",
+          "url": "https://wallstreetcn.com/livenews/3144011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://wallstreetcn.com/livenews/3144010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "欧洲央行称伊朗战争重创欧元区消费，信心下滑拖累经济增长",
+          "url": "https://flash.jin10.com/detail/20260803160753225800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "金十整理：伊朗与阿曼关于霍尔木兹海峡的谈判情况一览",
+          "url": "https://flash.jin10.com/detail/20260803160600377800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://flash.jin10.com/detail/20260803160552599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "伊朗外交部：霍尔木兹海峡不会恢复战前状态，开放问题与阿曼谈判无关",
           "url": "https://flash.jin10.com/detail/20260803010726582800",
           "source": "金十数据",
@@ -165,8 +253,41 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
           "url": "https://wallstreetcn.com/articles/3778504",
@@ -188,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -292,7 +424,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -304,6 +436,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "博主：DeepSeek给全球AI画斩杀线",
+          "url": "https://www.toutiao.com/trending/7669679705066327595/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -330,9 +484,70 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
+          "url": "https://flash.jin10.com/detail/20260803162828608800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "8月股票配置调整：日本以外亚洲市场有吸引力，美股......",
+          "url": "https://flash.jin10.com/detail/20260803161423014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
+          "url": "https://wallstreetcn.com/livenews/3144006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
         {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
@@ -347,19 +562,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         }
       ]
     }
